@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Versão inicial do site Beijinho de Brilho"
+git branch -M main
+git remote add origin https://github.com/SEU_USUARIO/beijinho-de-brilho.git
+git push -u origin main
